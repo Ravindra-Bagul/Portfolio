@@ -1,7 +1,6 @@
 {
   "name": "portfolio1",
   "version": "0.1.0",
-  "homepage": "https://ravindrabagul.github.io",
   "private": true,
   "dependencies": {
     "@emailjs/browser": "^3.11.0",
